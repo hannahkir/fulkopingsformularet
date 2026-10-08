@@ -22,7 +22,7 @@ body {
 
 .header {
   background-color: #7c3030;
-  color: #f78484;
+  color: #ffffff;
   padding: 1.5rem 2rem;
   border-radius: 8px 8px 0 0;
 }
@@ -33,7 +33,7 @@ body {
 
 .header p {
   margin-top: 0.4rem;
-  font-style: italic;
+  font-size: 1rem;
   opacity: 0.85;
 }
 
@@ -51,6 +51,7 @@ body {
 .form-field label {
   display: block;
   font-weight: bold;
+  color: #3f3e3e;
   margin-bottom: 0.35rem;
 }
 
